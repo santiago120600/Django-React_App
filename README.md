@@ -3,7 +3,7 @@ To do app made using Django Rest Framework and React
 
 
 ## Installation
-1. `pip freeze > requirements.txt`
+1. `pip install -r requirements.txt`
 2. `cd toDoApi`
 3. `python manage.py runserver`
 
